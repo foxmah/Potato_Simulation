@@ -14,7 +14,7 @@ SLEEP = 0
 
 # Simulation runs for DAYS. For example if DAYS = 50,
 # simulation runs for 50 days.
-DAYS = 10
+DAYS = 100
 
 # Number of hours in a day
 HOURS_PER_DAY = 24
